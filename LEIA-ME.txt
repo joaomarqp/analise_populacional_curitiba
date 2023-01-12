@@ -1,0 +1,3 @@
+para acessar a base de dados tratada, acesse https://docs.google.com/spreadsheets/d/1X-UHp5EjjT61fwuuouZy5htHUKj-OL5w9AxdfNq2jMo/edit?usp=sharing
+
+para acessar o dashboard com a analise dos dados acesse https://datastudio.google.com/reporting/27ea922c-90fe-46d4-bb4f-472c65c97628
